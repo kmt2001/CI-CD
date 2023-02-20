@@ -8,6 +8,7 @@ public class Assignment {
         Assignment obj = new Assignment();
         int Array[] = {5, 10, 40, 30, 20};
         obj.orderOfElements(Array);
+        System.out.println("changes");
     }
 
 
